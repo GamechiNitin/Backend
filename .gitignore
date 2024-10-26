@@ -1,2 +1,4 @@
 Connection_DB_Mongoose/.env
 Connection_DB_Mongoose/node_modules
+MVC_Pattern/.env
+MVC_Pattern/node_modules
